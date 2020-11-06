@@ -1,2 +1,2 @@
 # Heart-Failure-Prediction-Vizualization
-Comparing all ML algorithms to achieve maximum accuracy for prediction of heart failure
+This repo compares all ML algorithms and neural networks for achieving maximum accuracy of 93.33% for prediction of heart failure along with a detailed vizualization of all categories.
