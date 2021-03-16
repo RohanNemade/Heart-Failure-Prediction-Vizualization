@@ -1,5 +1,5 @@
 # Heart-Failure-Prediction-Vizualization
-This repo compares all popular ML algorithms and neural networks for achieving maximum accuracy of 93.33% for prediction of heart failure along with a detailed vizualization of all features.
+This repo compares all popular ML algorithms and neural networks for achieving maximum accuracy of 95.0% for prediction of heart failure along with a detailed vizualization of all features. This accuracy was achieved by Random Forest Classifier and K-NN Classifier.
 
 **Link for dataset** : https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
